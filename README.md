@@ -1,6 +1,6 @@
-# SA.01: WK1: Code Challenge
+# SA.02: WK2: Code Challenge
 
-#### Date, 2024/03/24
+#### Date, 2024/04/01
 
 #### By *Denis Mugambi Muthuri*
 
@@ -31,12 +31,12 @@ Git
 
 ### Installation instruction
 ```
-Git clone git@github.com:Xgambino/SA.01-WK1-Code-Challenge.git
+git@github.com:Xgambino/SA.02-WK2-Code-Challenge.git
 
 ```
 
 # Live Link
-https://github.com/Xgambino/SA.01-WK1-Code-Challenge.git
+https://github.com/Xgambino/SA.02-WK2-Code-Challenge.git
 
 ## Technologies used
 Github
